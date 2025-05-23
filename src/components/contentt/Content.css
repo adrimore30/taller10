@@ -1,0 +1,9 @@
+.user-card {
+    border: 2px solid #f8d7da;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+    color: #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
